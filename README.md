@@ -6,7 +6,7 @@
 💻 Python, Linux ve OOP üzerine projeler geliştiriyorum.  
 
 **ENG:**  
-🎓 I am a student at Marmara University.  
+🎓 I am a student at Marmara University adn I study computer engineering.  
 🔐 Interested in software development,cybersecurity and networking.  
 💻 Working on Python, Linux, and OOP-based projects.  
 
