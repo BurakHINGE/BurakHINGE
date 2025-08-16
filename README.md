@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Merhaba! | Hello!
 
-<!--
-**BurakHINGE/BurakHINGE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TR:**  
+🎓 Marmara Üniversitesi Bilgisayar Mühendisliği öğrencisiyim.  
+🔐 Yazılım geliştirme, siber güvenlik ve ağ teknolojileri ile ilgileniyorum.  
+💻 Python, Linux ve OOP üzerine projeler geliştiriyorum.  
 
-Here are some ideas to get you started:
+**ENG:**  
+🎓 I am a student at Marmara University.  
+🔐 Interested in software development,cybersecurity and networking.  
+💻 Working on Python, Linux, and OOP-based projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌍 Sosyal Medya | Social Media
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Burak_Menteşe-blue)](https://www.linkedin.com/in/mehmet-burak-mente%C5%9Fe-00a542315/)  
+[![Medium](https://img.shields.io/badge/Medium-Yazılarım-black)](https://medium.com/@burakmentese16)  
+[![GitHub](https://img.shields.io/badge/GitHub-BurakHINGE-black?style=flat-square&logo=github)](https://github.com/BurakHINGE)
+
+---
+
+## ⚡ GitHub İstatistikleri | GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakHINGE&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakHINGE&layout=compact)
