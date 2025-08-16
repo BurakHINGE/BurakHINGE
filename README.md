@@ -14,9 +14,9 @@
 
 ## 🌍 Sosyal Medya | Social Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Burak_Menteşe-blue)](https://www.linkedin.com/in/mehmet-burak-mente%C5%9Fe-00a542315/)  
-[![Medium](https://img.shields.io/badge/Medium-Yazılarım-black)](https://medium.com/@burakmentese16)  
-[![GitHub](https://img.shields.io/badge/GitHub-BurakHINGE-black?style=flat-square&logo=github)](https://github.com/BurakHINGE)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-burak-mente%C5%9Fe-00a542315/) 
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@burakmentese16)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BurakHINGE)
 
 ---
 
