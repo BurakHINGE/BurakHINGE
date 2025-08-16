@@ -20,13 +20,9 @@
 
 ---
 
-## 💻 Skills / Yetkinlikler
+## 💻 Yetkinlikler | Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vscode,kali,linux" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,vscode,sublime,kali,linux,windows)](https://skillicons.dev)
 
 ---
 
