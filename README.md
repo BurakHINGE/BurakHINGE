@@ -6,7 +6,7 @@
 💻 Python, Linux, Kali Linux ve VS Code ile projeler geliştiriyorum.  
 
 **ENG:**  
-🎓 I am a student at Marmara University.  
+🎓 I am studying Computer Engineering at Marmara University.  
 🔐 Interested in sofware development, cyber security and networking.  
 💻 Working on Python, Linux, Kali Linux, and VS Code projects.  
 
