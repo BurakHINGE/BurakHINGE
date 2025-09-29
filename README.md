@@ -22,7 +22,7 @@
 
 ## 💻 Yetkinlikler | Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,pycharm,vscode,sublime,kali,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,java,vscode,sublime,kali,linux,windows)](https://skillicons.dev)
 
 ---
 
