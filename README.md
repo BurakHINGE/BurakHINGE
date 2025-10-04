@@ -29,5 +29,5 @@
 ## ⚡ GitHub İstatistikleri | GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakHINGE&show_icons=true&theme=radical)  
-![](https://komarev.com/ghpvc/?username=BurakHINGE&color=orange)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BurakHINGE&layout=compact)
+![](https://komarev.com/ghpvc/?username=BurakHINGE&color=orange)
