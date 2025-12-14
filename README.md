@@ -1,14 +1,10 @@
-# 👋 Merhaba! | Hello!
+# 👋 Hello!
 
-**TR:**  
-🎓 Marmara Üniversitesi bilgisayar mühendisliği öğrencisiyim.  
-🔐 Yazılım geliştrime, siber güvenlik ve ağ teknolojileri ile ilgileniyorum.  
-💻 Python, Linux, Kali Linux ve VS Code ile projeler geliştiriyorum.  
 
 **ENG:**  
 🎓 I am studying Computer Engineering at Marmara University.  
-🔐 Interested in sofware development, cyber security and networking.  
-💻 Working on Python, Linux, Kali Linux, and VS Code projects.  
+🔐 Interested in sofware development, cyber security and game development.  
+💻 Working on Java, Python, Unity, Linux, and VS Code projects.  
 
 ---
 
@@ -22,7 +18,7 @@
 
 ## 💻 Yetkinlikler | Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,pycharm,java,vscode,sublime,kali,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pycharm,java,vscode,unity,sublime,kali,linux,windows)](https://skillicons.dev)
 
 ---
 
