@@ -17,7 +17,7 @@
 
 ## 💻 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,pycharm,java,vscode,unity,sublime,kali,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,vscode,visualstudio,pycharm,sublime,git,unity,kali,linux,windows)](https://skillicons.dev)
 
 ---
 
