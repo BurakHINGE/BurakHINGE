@@ -3,7 +3,7 @@
  
 🎓 I am studying Computer Engineering at Marmara University.  
 🔐 Interested in sofware development, cyber security and game development.  
-💻 Working on Java, Python, Unity, Linux, and VS Code projects.  
+💻 Working on Java, Python, Unity, and Linux projects.  
 
 ---
 
